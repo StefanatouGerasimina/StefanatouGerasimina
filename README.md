@@ -13,9 +13,10 @@ supportive and open-minded.
 
 **Here are some info about me:**
 
-- - 🔭 I’m currently working at Linked Business as a Python developer and ml engineer.
-- - 🌱 I’m currently learning Deep Learning algorithms.
-- - 📫 How to reach me: stefanatougerasimina@gmail.com .
+- 🔭 I’m currently working at Linked Business as a Python developer and ml engineer.
+- 🌱 I’m currently learning Deep Learning algorithms with Keras challenges. (Stay tuned)
+- 📫 How to reach me: stefanatougerasimina@gmail.com .
+  
 <!--
 **StefanatouGerasimina/StefanatouGerasimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
