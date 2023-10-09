@@ -1,7 +1,7 @@
 ### Hi, I'm Mina 👋 :woman_technologist: 
 
 
-![Screenshot_1](https://github.com/StefanatouGerasimina/StefanatouGerasimina/assets/63111398/1b5bbb74-eaad-4e87-8de7-8000a64461b9)
+![Screenshot_1](hhttps://github.com/StefanatouGerasimina/StefanatouGerasimina/assets/63111398/be24f129-1312-4249-9954-87283aa9214b)
 <!--
 **StefanatouGerasimina/StefanatouGerasimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
