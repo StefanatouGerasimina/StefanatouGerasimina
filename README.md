@@ -2,6 +2,20 @@
 
 
 ![Hi](https://user-images.githubusercontent.com/63111398/273709741-be24f129-1312-4249-9954-87283aa9214b.png)
+
+Data scientist with a strong computer science background. I hold a B.Sc. in Computer Science with a
+specialization in Data Manipulation from the University of Piraeus, Greece. I am currently working as a
+Python Developer and ML Engineer at a startup company and have demonstrated experience in building
+machine learning models, implementing microservices to expose them at scale in production
+environments by using text mining and harvesting techniques. As an individual, I can be described by my
+ambitions, eagerness and hardworking personality, while as a team member, I am highly collaborative,
+supportive and open-minded.
+
+**Here are some info about me:**
+
+- - 🔭 I’m currently working at Linked Business as a Python developer and ml engineer.
+- - 🌱 I’m currently learning Deep Learning algorithms.
+- - 📫 How to reach me: stefanatougerasimina@gmail.com .
 <!--
 **StefanatouGerasimina/StefanatouGerasimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
