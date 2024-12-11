@@ -1,7 +1,6 @@
 ### Hi, I'm Mina 👋 :woman_technologist: 
 
 
-![Hi](https://user-images.githubusercontent.com/63111398/273709741-be24f129-1312-4249-9954-87283aa9214b.png)
 
 Data scientist with a strong computer science background. I hold a B.Sc. in Computer Science with a
 specialization in Data Manipulation from the University of Piraeus, Greece. I am currently working as a
