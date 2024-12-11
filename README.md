@@ -12,7 +12,6 @@ supportive and open-minded.
 
 **Here are some info about me:**
 
-- 🔭 I’m currently working at Accenture Greece as Data Science Analyst.
 - 📫 How to reach me: stefanatougerasimina@gmail.com .
   
 <!--
