@@ -12,8 +12,7 @@ supportive and open-minded.
 
 **Here are some info about me:**
 
-- 🔭 I’m currently working at Linked Business as a Python developer and ml engineer.
-- 🌱 I’m currently learning Deep Learning algorithms with Keras challenges. (Stay tuned)
+- 🔭 I’m currently working at Accenture Greece as Data Science Analyst.
 - 📫 How to reach me: stefanatougerasimina@gmail.com .
   
 <!--
