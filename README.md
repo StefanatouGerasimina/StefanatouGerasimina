@@ -3,12 +3,11 @@
 
 
 Data scientist with a strong computer science background. I hold a B.Sc. in Computer Science with a
-specialization in Data Manipulation from the University of Piraeus, Greece. I am currently working as a
-Python Developer and ML Engineer at a startup company and have demonstrated experience in building
-machine learning models, implementing microservices to expose them at scale in production
-environments by using text mining and harvesting techniques. As an individual, I can be described by my
-ambitions, eagerness and hardworking personality, while as a team member, I am highly collaborative,
-supportive and open-minded.
+specialization in Data Manipulation from the University of Piraeus, Greece. I am a data scientist and analyst
+with over three years of experience in customer analytics and driving business growth and I am currently working as a
+Data Scientist-Analyst at Accenture. Currently, I am focused on enhancing intelligent automation and utilizing generative 
+AI to improve customer support. I enjoy turning business challenges into practical, data-driven strategies and working 
+closely with stakeholders in multiple markets.
 
 **Here are some info about me:**
 
