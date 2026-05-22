@@ -2,14 +2,8 @@
 
 
 
-Data scientist with a strong computer science background. I hold a B.Sc. in Computer Science with a
-specialization in Data Manipulation from the University of Piraeus, Greece and I am currently studying for my MSc in Data Science and AI from AUEB, Greece. I am a data scientist and analyst
-with over three years of experience in customer analytics and driving business growth and I am currently working as a
-Data Scientist-Analyst at Accenture. Currently, I am focused on enhancing intelligent automation and utilizing generative 
-AI to improve customer support. I enjoy turning business challenges into practical, data-driven strategies and working 
-closely with stakeholders in multiple markets.
-
-**Here are some info about me:**
+Data scientist with a strong computer science background. I hold a B.Sc. in Computer Science with a specialization in Data Manipulation from the University of Piraeus, Greece and I am currently studying for my MSc in Data Science and AI from AUEB, Greece.
+I am a data scientist and analyst with over 4 years of experience and I am currently working as a Data Scientist-Analyst at Accenture. 
 
 - 📫 How to reach me: stefanatougerasimina@gmail.com .
   
